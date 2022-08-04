@@ -1,5 +1,5 @@
 <div>
-<h1 align="center" color="#red">Hello:wave: and welcome to my GitHub profile! </h1>
+<h1 align="center" color="red">Hello:wave: and welcome to my GitHub profile! </h1>
 <div>
 <!--
 **AleksandrPav/AleksandrPav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
