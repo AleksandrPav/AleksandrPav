@@ -1,3 +1,3 @@
 
 ![](https://komarev.com/ghpvc/?AleksandrPav=your-github-AleksandrPav)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrPav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
