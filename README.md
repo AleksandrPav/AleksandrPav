@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&background=B8B8B8&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Alexander+Pavlov" alt="Typing SVG" /></a>
-<!--
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&background=000000&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Alexander+Pavlov" alt="Typing SVG" /></a>
+
 **AleksandrPav/AleksandrPav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
