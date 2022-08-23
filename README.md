@@ -1,8 +1,8 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AleksandrPav.visitor-badge&left_color=black&right_color=red&left_text=PROFILE+VIEWS)
+
 
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
 
-<div align="center">
+<div align="center" margin-top="50px">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
 </div>
 
