@@ -29,8 +29,7 @@ I am a JUNIOR FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" **alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
-
-
+---
 
 
 
