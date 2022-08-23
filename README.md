@@ -1,9 +1,11 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AleksandrPav.visitor-badge&left_color=black&right_color=red&left_text=PROFILE+VIEWS)
 
-<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)" width="600" height="300"/>
+</div>
+
 
 <div align="center">
 
