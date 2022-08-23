@@ -3,7 +3,7 @@
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
 </div>
 
 
