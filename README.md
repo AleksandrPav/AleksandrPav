@@ -12,6 +12,10 @@ I am a JUNIOR FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplc
 - :eyeglasses: Looking for an opportunity to grow front-end development skills in an innovative environment.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aleksandr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavlovaleksandr/)
 
+---
+
+
+
 
 
 
