@@ -1,14 +1,14 @@
 <h1 align="center">Hello:wave: and welcome to my GitHub profile!</h1>
 
----
-
 <div align="center" bottom="50">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="500" height="250"/>
 </div>
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kiyv, Ukraine.
+I am a JUNIOR FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kiyv, Ukraine.
+- :weight_lifting: Motivated, recent web development graduate with experiencein building unbreakable and elegant JavaScript websites.
+- :eyeglasses: Looking for an opportunity to grow front-end development skills in an innovative environment.
 
 
 
