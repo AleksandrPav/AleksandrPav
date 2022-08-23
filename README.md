@@ -10,7 +10,7 @@ I am a JUNIOR FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplc
 - :weight_lifting: Motivated, recent web development graduate with experiencein building unbreakable and elegant JavaScript websites.
 - :man_office_worker: I am a quick learner and I know that there are no problems, there are just tasks that need to be solved. 
 - :eyeglasses: Looking for an opportunity to grow front-end development skills in an innovative environment.
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavlovaleksandr/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aleksandr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavlovaleksandr/)
 
 
 
