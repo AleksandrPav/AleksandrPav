@@ -1,10 +1,12 @@
+<div align="center" margin-bottom="50">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
+</div>
+
 
 
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
 
-<div align="center" margin-top="50px">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
-</div>
+
 
 
 <div align="center">
