@@ -2,11 +2,13 @@
 
 
 
-<h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
+<h1 align="center">Hello:wave: and welcome to my GitHub profile!</h1>
 
 <div align="center" bottom="50">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="500" height="250"/>
 </div>
+
+### :man_technologist: About Me :
 
 
 
