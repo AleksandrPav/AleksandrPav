@@ -2,9 +2,8 @@
 
 <h1 align="center">Hello:wave: and welcome to my GitHub profile! </h1>
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/AleksandrPav/cards/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-</div>
+ ![](https://raw.githubusercontent.com/AleksandrPav/cards/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+
 
 
 
